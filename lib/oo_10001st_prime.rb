@@ -1,6 +1,6 @@
 # Implement your object-oriented solution here!
 
-class IsPrime
+class Prime
   attr_reader :number
 
   def initialize(limit)
