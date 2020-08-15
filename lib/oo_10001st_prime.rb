@@ -1,7 +1,7 @@
 # Implement your object-oriented solution here!
 
 class IsPrime
-  att_reader :number
+  attr_reader :number
 
   def initialize(limit)
     @limit = limit
