@@ -13,5 +13,5 @@ def prime_number_for(limit)
     n += 1
     i += 1 if is_prime?(n)
   end
-  
+  n
 end
